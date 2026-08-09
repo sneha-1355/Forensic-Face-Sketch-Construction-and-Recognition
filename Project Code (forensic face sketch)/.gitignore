@@ -1,0 +1,29 @@
+# Java / Maven / NetBeans generated files
+target/
+build/
+dist/
+
+# Compiled Java files
+*.class
+
+# JAR files
+*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large Libraries in your project
+Java Libraries(Part 1)/
+*.psd
